@@ -55,22 +55,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouthKioto&layout=compact&theme=gruvbox" width="41%" />
 </p>
 
-
-# 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SouthKioto" />
-</p>
-
-
-# 🎉 Fun Extras
-<p align="center">
-  <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=DenverCoder1" alt="GitHub Streak"/>
-  </a>
-</p>
-
-</p>
-
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
 
