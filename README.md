@@ -1,6 +1,6 @@
 <!-- Typing Banner -->
 <h1 align="center">
-![Header](github-header-banner.png)
+
 </h1>
 
 ---
@@ -58,11 +58,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SouthKioto&style=for-the-badge&color=blue" />
 </p>
-
-<p align="center">
-  <img src="https://i.imgur.com/OK9YwY3.gif" width="300" />
-</p>
-
----
 
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
