@@ -58,7 +58,7 @@
 
 # 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SouthKioto&theme=gruvbox&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=SouthKioto" />
 </p>
 
 
