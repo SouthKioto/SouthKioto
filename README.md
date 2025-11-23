@@ -12,7 +12,7 @@
 </p>
 
 
-## 🛠️ Tech Stack (Gruvbox Edition)
+## 🛠️ Tech Stack
 
 <p align="center">
 
@@ -33,9 +33,7 @@
 </p>
 
 
-# 📚 Learning Progress (GRUVBOX TERMINAL STYLE)
-
-> **Styl: Retro Terminal — czyste unicode, bez HTML — 100% kompatybilne z GitHub**
+# 📚 Learning Progress
 
 ### 🧵 C
 ███████▒▒▒▒▒▒▒▒▒ 40%
@@ -50,7 +48,7 @@
 ██████████▒▒▒▒▒▒ 60%
 
 
-# 📊 GitHub Stats (Gruvbox Theme)
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SouthKioto&hide_title=true&show_icons=true&theme=gruvbox&count_private=true" width="48%" />
