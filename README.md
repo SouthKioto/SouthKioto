@@ -1,6 +1,6 @@
 <!-- Typing Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A3FF&center=true&vCenter=true&width=600&lines=Hello+World!;I'm+Bartek+(SouthKioto);Welcome+to+my+GitHub!" />
+![Header](github-header-banner.png)
 </h1>
 
 ---
@@ -13,14 +13,6 @@
   Anime enjoyer 🎌 | Gamer 🎮 | Tech enthusiast ⚙️
 </h3>
 
----
-
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/YqG7xv1.png" width="80%" alt="banner"/>
-</p>
-
----
 
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
