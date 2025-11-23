@@ -60,29 +60,6 @@
   <img src="https://streak-stats.demolab.com?user=SouthKioto&theme=radical&hide_border=true" />
 </p>
 
----
-
-<!-- Projects -->
-## 🚀 Highlighted Projects
-
-### 🔹 **Fullstack App (React + Express.js)**
-⚛️ Modern SPA with backend API  
-🔗 *(link soon)*
-
----
-
-### 🔹 **PHP Web App**
-🐘 Lightweight backend with custom routing  
-🔗 *(link soon)*
-
----
-
-### 🔹 **React UI Component Library**
-✨ Reusable UI components built with Tailwind  
-🔗 *(link soon)*
-
----
-
 <!-- Extras -->
 ## 🎉 Fun Extras
 
