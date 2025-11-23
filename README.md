@@ -1,6 +1,9 @@
 <!-- Typing Banner -->
 <h1 align="center">
-  ![Header](./github-header-banner.png)
+<p align="center">
+  <img src="./github-header-banner.png" />
+</p>
+
 </h1>
 
 ---
