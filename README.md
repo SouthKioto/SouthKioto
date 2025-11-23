@@ -64,7 +64,12 @@
 
 # 🎉 Fun Extras
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SouthKioto&style=for-the-badge&color=d79921" />
+  <p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=DenverCoder1" alt="GitHub Streak"/>
+  </a>
+</p>
+
 </p>
 
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
