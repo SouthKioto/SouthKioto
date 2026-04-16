@@ -8,7 +8,7 @@
   <strong>Frontend & backend developer</strong> working with  
   <strong>React</strong> | <strong>JavaScript</strong> | <strong>HTML</strong> | <strong>CSS</strong> |  
   <strong>PHP</strong> | <strong>Express.js</strong><br><br>
-  Anime enjoyer 🎌 | Gamer 🎮 | Tech enthusiast ⚙️
+  Anime enjoyer 🎌 | Gamer 🎮 | Tech enthusiast ⚙️ | Dark Fantasy Lover 🏰
 </p>
 
 
