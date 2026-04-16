@@ -80,15 +80,6 @@
 
 ---
 
-<!-- Spotify -->
-<h2 align="left">🎵 Recently Played</h2>
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=4zagoo6q30udvk0mearxrsgtk&count=5" alt="Spotify recently played" />
-</div>
-
----
-
 <!-- Pacman contribution graph -->
 <h2 align="left">🐾 Contributions</h2>
 
