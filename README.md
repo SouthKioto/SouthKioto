@@ -100,7 +100,7 @@
 
 ---
 
-<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+<h3 align="center">✨ Thanks for visiting my profile! ✨ <img src="https://komarev.com/ghpvc/?username=SouthKioto&color=blueviolet" /></h3>
 
 <!-- Banner dolny -->
 <div>
