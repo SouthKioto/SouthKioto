@@ -1,4 +1,4 @@
 <!-- Banner górny -->
 <div>
-  <img src="./" />
+  <img src="./readme.png" />
 </div>
